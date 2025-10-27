@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Tushar Panwar  
-I love exploring data, uncovering insights, and transforming numbers into meaningful narratives.
+Turning data into decisions — one insight at a time.
 
 ---
 
 ### 🧰 **Tech Stack**
-- **Programming & Analytics:** Python (Pandas, NumPy, Matplotlib, Seaborn)
-- **Databases:** SQL
+- **Programming & Analytics:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
+- **Databases:** MySQL
 - **BI & Visualization:** Power BI, Tableau
 - **Other Skills:** MS Excel, Statistics, Machine Learning (Basics)
 
@@ -15,8 +15,8 @@ I love exploring data, uncovering insights, and transforming numbers into meanin
 
 | Project | Tools | Description |
 |---------|--------|-------------|
-| **Financial Analysis Dashboard (Top 12 German Companies)** | Power BI | Interactive dashboard analyzing KPIs, revenue trends, and company-wise performance |
-| **Sales Data Analysis (EDA)** | Python, Pandas, Matplotlib, Seaborn | Exploratory data analysis on sales dataset to uncover sales behavior and insights |
+| **Financial Analysis Dashboard (Top 12 German Companies)** | Power BI | 3-page interactive dashboard analyzing KPIs, profitability, and year-wise performance |
+| **Sales Data Analysis (EDA)** | Python, Pandas, Matplotlib, Seaborn | Performed data cleaning, feature engineering, and visual exploration to uncover sales insights |
 
 ---
 
@@ -32,16 +32,16 @@ I love exploring data, uncovering insights, and transforming numbers into meanin
 
 ---
 
-### 📊 **GitHub Stats**
+### 📊 **My GitHub Activity**
 ![Tushar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=panwars259&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=panwars259&layout=compact&theme=default)
 
 ---
 
 ### 🌱 **Currently Improving**
-- Advanced storytelling with dashboards  
-- Real-world analytics problem solving  
-- Machine Learning and exploratory analysis
+- Dashboard storytelling & report structuring 
+- Real-world problem solving through EDA
+- Advanced SQL for analytics
 
 ---
 
